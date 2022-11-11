@@ -1,2 +1,2 @@
 # SwinTD_Net
-Code and Model of the SwinTD_Net for Single Image Dehazing
+Our paper is under review and we will make our model and code public as soon as possible.
