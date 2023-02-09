@@ -15,18 +15,9 @@ Install
 We test the code on Python3.9 +Cuda12.0 +Torch1.10.2 +Natsort +Visdom 0.1.8.9
 
 The final path should be the same as following：
+![Uploading 图片.png…]()
 
-—dataset
-   — inputtest
-   — inputtrain
-   — tarrgettest
-   — test
-   — test_targe
-   — trantarge
-   — DCP_train
-   —dcp_a
-   —dcp_j
-   —dcp_t
+
 Train and Evaluation
 Train 
 You can run the code directly in our project without using the configuration file. The relevant configuration information is in the file .
