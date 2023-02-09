@@ -15,7 +15,8 @@ Install
 We test the code on Python3.9 +Cuda12.0 +Torch1.10.2 +Natsort +Visdom 0.1.8.9
 
 The final path should be the same as following：
-![Uploading 图片.png…]()
+![图片](https://user-images.githubusercontent.com/55275107/217825361-7ae677d6-974e-4b2d-bad0-15bb87223548.png)
+
 
 
 Train and Evaluation
