@@ -39,3 +39,5 @@ In the same order as train, you need to refer to our paper.
 For example, we test the Swinir2 set:
 
 Python swintest.py --MODEL(model name)
+
+If you have questions, you can contact us (chenzekai451236@163.com) and we will reply when we are free.
